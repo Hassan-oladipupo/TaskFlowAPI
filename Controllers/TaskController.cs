@@ -111,7 +111,23 @@ namespace TaskFlow_API.Controllers
             return NoContent(); 
         }
 
+        [HttpPost("assign")]
+        public IActionResult AssignTask(MyTask task)
+        {
+            if (task == null)
+            {
+                return BadRequest("Task data is invalid.");
+            }
 
+            var userId = User.FindFirstValue(ClaimTypes.NameIdentifier);
+
+            task.CreatorId = userId; 
+
+            _unitOfWork.MyTask.Add(task);
+            _unitOfWork.Save();
+
+            return CreatedAtAction(nameof(GetTaskById), new { id = task.Id }, task);
+        }
 
 
 
