@@ -1,0 +1,32 @@
+C:\Users\hp\source\repos\TaskFlow API\TaskFlow API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\hp\source\repos\TaskFlow API\TaskFlow API\bin\Debug\net6.0\appsettings.json
+C:\Users\hp\source\repos\TaskFlow API\TaskFlow API\bin\Debug\net6.0\TaskFlow API.exe
+C:\Users\hp\source\repos\TaskFlow API\TaskFlow API\bin\Debug\net6.0\TaskFlow API.deps.json
+C:\Users\hp\source\repos\TaskFlow API\TaskFlow API\bin\Debug\net6.0\TaskFlow API.runtimeconfig.json
+C:\Users\hp\source\repos\TaskFlow API\TaskFlow API\bin\Debug\net6.0\TaskFlow API.dll
+C:\Users\hp\source\repos\TaskFlow API\TaskFlow API\bin\Debug\net6.0\TaskFlow API.pdb
+C:\Users\hp\source\repos\TaskFlow API\TaskFlow API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\hp\source\repos\TaskFlow API\TaskFlow API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hp\source\repos\TaskFlow API\TaskFlow API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hp\source\repos\TaskFlow API\TaskFlow API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hp\source\repos\TaskFlow API\TaskFlow API\obj\Debug\net6.0\TaskFlow API.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\TaskFlow API\TaskFlow API\obj\Debug\net6.0\TaskFlow API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\TaskFlow API\TaskFlow API\obj\Debug\net6.0\TaskFlow API.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\TaskFlow API\TaskFlow API\obj\Debug\net6.0\TaskFlow API.AssemblyInfo.cs
+C:\Users\hp\source\repos\TaskFlow API\TaskFlow API\obj\Debug\net6.0\TaskFlow API.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\TaskFlow API\TaskFlow API\obj\Debug\net6.0\TaskFlow API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hp\source\repos\TaskFlow API\TaskFlow API\obj\Debug\net6.0\TaskFlow API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\source\repos\TaskFlow API\TaskFlow API\obj\Debug\net6.0\staticwebassets\msbuild.TaskFlow API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hp\source\repos\TaskFlow API\TaskFlow API\obj\Debug\net6.0\staticwebassets\msbuild.build.TaskFlow API.props
+C:\Users\hp\source\repos\TaskFlow API\TaskFlow API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TaskFlow API.props
+C:\Users\hp\source\repos\TaskFlow API\TaskFlow API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TaskFlow API.props
+C:\Users\hp\source\repos\TaskFlow API\TaskFlow API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\hp\source\repos\TaskFlow API\TaskFlow API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\hp\source\repos\TaskFlow API\TaskFlow API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\hp\source\repos\TaskFlow API\TaskFlow API\obj\Debug\net6.0\scopedcss\bundle\TaskFlow API.styles.css
+C:\Users\hp\source\repos\TaskFlow API\TaskFlow API\obj\Debug\net6.0\TaskFlow API.csproj.CopyComplete
+C:\Users\hp\source\repos\TaskFlow API\TaskFlow API\obj\Debug\net6.0\TaskFlow API.dll
+C:\Users\hp\source\repos\TaskFlow API\TaskFlow API\obj\Debug\net6.0\refint\TaskFlow API.dll
+C:\Users\hp\source\repos\TaskFlow API\TaskFlow API\obj\Debug\net6.0\TaskFlow API.pdb
+C:\Users\hp\source\repos\TaskFlow API\TaskFlow API\obj\Debug\net6.0\TaskFlow API.genruntimeconfig.cache
+C:\Users\hp\source\repos\TaskFlow API\TaskFlow API\obj\Debug\net6.0\ref\TaskFlow API.dll
